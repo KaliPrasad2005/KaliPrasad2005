@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kali Prasad Babu A</h1>
-<h3 align="center">Aspiring Data Scientist & Data Analyst | AI & ML Enthusiast</h3>
+<h3 align="center">Aspiring AI/ML Engineer & Data Analyst | AI & ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaliprasad2005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Pre-final year **Computer Science (Data Science)** student  
-- 📊 Passionate about **Data Analysis, Data Science, and AI**
+- 📊 Passionate about **Data Analysis, Data Science, and Gen AI ,AI/ML**
 - 🔍 Strong interest in **financial data analysis & dashboards**
 - 🧠 Curious learner exploring **ML, DL, and LLMs**
 - 🤝 Open to **AI, Data Science, and Analytics collaborations**
