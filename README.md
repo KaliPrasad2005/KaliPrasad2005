@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pre-final year **Computer Science (Data Science)** student  
+- 🎓 Pre-final year ** B-Tech Computer Science (Data Science)** student  
 - 📊 Passionate about **Data Analysis, Data Science, and Gen AI ,AI/ML**
 - 🔍 Strong interest in **financial data analysis & dashboards**
 - 🧠 Curious learner exploring **ML, DL, and LLMs**
