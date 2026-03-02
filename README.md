@@ -27,9 +27,9 @@
 ## 🌱 Currently Learning
 
 - **Programming:** Python, C  
-- **Data & Analytics:** SQL, Power BI, Tableau, Pandas, NumPy  
+- **Data & Analytics:** SQL, Power BI, Tableau, Pandas, NumPy , Matplotlib  
 - **Machine Learning:** ML & DL fundamentals  
-- **Web Basics:** HTML, CSS  
+- **Web Basics:** HTML, CSS , JavaScript ,TypeScript , Node-Js
 
 ---
 
